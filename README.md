@@ -1,6 +1,6 @@
 "# PYB_Assigment1"
 
-Cho tọa độ 3 đỉnh A, B, C của hình tam giác trong mặt phẳng không gian Oxy. Bài tập yêu cầu học viên tính toán các thông số của hình tam giác từ đơn giản đến phức tạp thông qua ngôn ngữ lập trình Python như:
+Cho tọa độ 3 đỉnh A, B, C của hình tam giác trong mặt phẳng không gian Oxy. Bài tập yêu cầu ta tính toán các thông số của hình tam giác từ đơn giản đến phức tạp thông qua ngôn ngữ lập trình Python như:
 
 - Xét xem A, B, C có đủ điều kiện tạo thành tam giác ABC hay không.
 
